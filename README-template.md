@@ -97,9 +97,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Lucas González](https://relaxed-longma-8bf7c5.netlify.app/)
+- Frontend Mentor - [@albaradolucas](https://www.frontendmentor.io/profile/albaradolucas)
+- Twitter - [@Albarado_Lucas](https://twitter.com/Albarado_Lucas)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
