@@ -1,0 +1,28 @@
+main{
+    margin-top: -20px;
+}
+
+body {
+    background: hsl(210, 46%, 95%);
+}
+
+.h6, p {
+    color: #fbfbfe;
+}
+
+.tcDark h6,
+.tcDark p {
+    color: #19212e;
+}
+
+.Op {
+    opacity: 50%;
+}
+
+.OpTwo {
+    opacity: 50%;
+}
+
+.OpThree {
+    opacity: 70%;
+}
